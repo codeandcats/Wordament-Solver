@@ -3,6 +3,10 @@ Wordament-Solver
 
 A bot that automatically plays and consistently wins at Microsoft Wordament
 
+Click below to watch it in action:
+
+[![](http://img.youtube.com/vi/2WpjlTkEMcA/0.jpg)](http://www.youtube.com/watch?v=2WpjlTkEMcA)
+
 Written in WPF & C#.
 
 I do not condone cheating so PLEASE UNDERSTAND the spirit of this project was purely the joy as a developer in overcoming the technical challenges of writing an AI that plays Wordament with no human intervention.
